@@ -1,0 +1,30 @@
+_repo: The-American-Reformed-Cattle-Doctor_37997
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dadd, George H.
+    alias: Dadd, G. H. (George H.)
+    birthdate: 1813
+    deathdate: 1868
+    gutenberg_agent_id: '39184'
+    url: http://www.gutenberg.org/2009/agents/39184
+description: ''
+gutenberg_issued: '2011-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Veterinary medicine'
+- !lcc 'SF'
+title: "The American Reformed Cattle Doctor\r\nContaining the necessary information\
+  \ for preserving the health and curing the diseases of oxen, cows, sheep, and swine,\
+  \ with a great variety of original recipes, and valuable information in reference\
+  \ to farm and dairy management"
+url: http://www.gutenberg.org/ebooks/37997
